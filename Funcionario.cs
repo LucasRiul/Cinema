@@ -19,6 +19,8 @@ namespace WindowsFormsApp1
             ingresso.Funcionario = this;
             cliente.adicionarIngresso(ingresso);
 
+            Console.WriteLine("alteração");
+            //a
         }
         
 
