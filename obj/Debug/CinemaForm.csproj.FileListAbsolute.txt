@@ -1,0 +1,12 @@
+C:\Users\lucas.riul\source\repos\WindowsFormsApp1\obj\Debug\CinemaForm.csproj.AssemblyReference.cache
+C:\Users\lucas.riul\source\repos\WindowsFormsApp1\obj\Debug\CinemaForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas.riul\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\lucas.riul\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lucas.riul\source\repos\WindowsFormsApp1\obj\Debug\CinemaForm.csproj.GenerateResource.cache
+C:\Users\lucas.riul\source\repos\WindowsFormsApp1\obj\Debug\CinemaForm.csproj.CoreCompileInputs.cache
+C:\Users\lucas.riul\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lucas.riul\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lucas.riul\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lucas.riul\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lucas.riul\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lucas.riul\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
